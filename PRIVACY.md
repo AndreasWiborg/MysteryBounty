@@ -1,5 +1,5 @@
-Privacy Policy for Mystery Bounty - Poker Solver
-Last updated: 12.09.2024
+Privacy Policy for Bounty Poker Calculator - Poker Solver
+Last updated: 17.06.2025
 
 1. Introduction
 Welcome to Mystery Bounty - Poker Solver ("we," "our," "us," or the "App"). We are committed to protecting your privacy and handling any personal information we obtain from you with care and respect. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles.
