@@ -1,4 +1,4 @@
-Terms and Conditions for Mystery Bounty - Poker Solver
+Terms and Conditions for Poker Bounty Calculator - Poker Solver
 
 Last updated: 12.09.2024
 
@@ -32,7 +32,7 @@ By accessing or using the Service, you agree to be bound by these Terms. If you 
 
 7. Contact Us
 If you have any questions about these Terms, please contact us at:
-Mystery Bounty - Poker Solver
+Poker Bounty Calculator - Poker Solver
 andreas@kawisoftware.com
 
 By using the Mystery Bounty - Poker Solver app, you acknowledge that you have read these Terms and Conditions, understood them, and agree to be bound by them.
